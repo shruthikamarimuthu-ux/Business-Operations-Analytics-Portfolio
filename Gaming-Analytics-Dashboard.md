@@ -34,4 +34,4 @@ The objective of this project is to analyse player engagement, churn risk, and r
 - Supported data-driven decision making
 - Identified areas for revenue and retention improvement
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
