@@ -22,7 +22,7 @@ Business & Operations Analytics professional with 2.5+ years of experience in fi
 - Evaluated campaign performance using CPA vs churn risk analysis
 - Delivered insights to support data-driven decision-making and optimisation strategies
 
-👉 [View Project](./Customer-Analytics-Dashboard)
+👉 [View Project](./Gaming-Analytics-Dashboard.md)
 
 ---
 
