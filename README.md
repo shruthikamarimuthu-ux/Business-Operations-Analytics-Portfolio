@@ -16,11 +16,11 @@ Business & Operations Analytics professional with 2.5+ years of experience in fi
 
 ## Projects
 
-### Customer Analytics & Revenue Optimization
-- Built an end-to-end analytics solution using Power BI and Python to analyse customer behaviour, churn, and revenue trends.
-- Identified high-risk customer segments and key revenue drivers through data analysis.
-- Developed insights to support business decision-making and improve retention strategies.
-- Designed an interactive dashboard to present KPIs and performance trends clearly.
+### Gaming Analytics & Player Behavior Dashboard
+- Developed an interactive Power BI dashboard to analyse player engagement, churn risk, and revenue trends
+- Identified high-risk user segments and key factors impacting retention
+- Evaluated campaign performance using CPA vs churn risk analysis
+- Delivered insights to support data-driven decision-making and optimisation strategies
 
 👉 [View Project](./Customer-Analytics-Dashboard)
 
